@@ -65,6 +65,7 @@ Sentiment Prediction
 
 Clone the repository:
 git clone https://github.com/kallaguntabalaji12/Context-Aware-Sentiment-Analysis-Using-RoBERTa-and-BiLSTM
+
 Navigate to the project directory:
 cd Context-Aware-Sentiment-Analysis-RoBERTa-BiLSTM
 
@@ -77,13 +78,18 @@ streamlit run app.py
 
 🔮 Expected Output:
 The application predicts the sentiment of the input text and displays:
-Predicted sentiment (Positive / Negative / Neutral, depending on the selected dataset).
+
+Predicted sentiment (Positive / Negative / Neutral, depending on the dataset).
+
 Prediction confidence.
+
 Sentiment probability distribution.
 
 
 🎓 Academic Project:
 
 Project Title: Context-Aware Sentiment Analysis Using RoBERTa and BiLSTM
+
 Domain: Natural Language Processing (NLP) and Deep Learning
+
 Application: Text Sentiment Classification
