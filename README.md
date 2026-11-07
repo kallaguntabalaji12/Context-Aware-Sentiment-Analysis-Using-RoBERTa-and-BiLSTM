@@ -5,6 +5,11 @@
 This project presents a hybrid deep learning approach for context-aware sentiment analysis using RoBERTa (Robustly Optimized BERT Pretraining Approach) and BiLSTM (Bidirectional Long Short-Term Memory). The system analyzes textual data and classifies sentiments based on contextual information. By combining the powerful contextual representations of RoBERTa with the sequential learning capabilities of BiLSTM, the model captures both semantic context and temporal dependencies in sentences.
 The project provides an interactive web application built using Streamlit for real-time and batch sentiment prediction.
 
+📎 Connect with Me
+
+GitHub: https://github.com/kallaguntabalaji12
+LinkedIn: https://www.linkedin.com/in/balajikallagunta4425/
+
 📥 Large Project Files / Download
 
 The full project ZIP file is available here:
